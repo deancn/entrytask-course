@@ -1,8 +1,9 @@
-title: entrytask
-description: This is a entrytask
+title: 欢迎加入我们
+description: This is an entry task.
 template:
   repo: entrytask-template
   name: entrytask
+  description: 欢迎加入技术公益团队
 before:
   - type: createIssue
     title: Welcome!
